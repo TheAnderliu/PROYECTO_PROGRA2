@@ -1,0 +1,25 @@
+// stdafx.h: archivo de inclusión de los archivos de inclusión estándar del sistema
+// o archivos de inclusión específicos de un proyecto utilizados frecuentemente,
+// pero rara vez modificados
+//
+
+#pragma once
+
+// TODO: mencionar aquí los encabezados adicionales que el programa necesita
+
+#include <iostream>
+#include <conio.h>
+#include <vector>
+using namespace std;
+#include<stdlib.h>
+#include <time.h>
+
+
+#include "Disco.h"
+#include "DiscoSpinning.h"
+#include "Jugador.h"
+#include "Juego.h"
+
+
+
+using namespace System;
